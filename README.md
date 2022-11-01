@@ -1,1 +1,2 @@
 # Diffusion-Limited-Aggregation
+Diffusion-limited aggregation (DLA) is the process whereby particles undergoing a random walk due to Brownian motion cluster together to form aggregates of such particles. DLA can be observed in many systems such as electrodeposition, Hele-Shaw flow, mineral deposits, and dielectric breakdown.The clusters formed in DLA processes are referred to as Brownian trees. These clusters are an example of a fractal. 
